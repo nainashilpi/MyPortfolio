@@ -19,11 +19,7 @@ const About = () => {
   <br />
   I am a passionate and results-driven developer with strong expertise in
   <b> MERN stack development</b>, <br /> having built multiple real-world projects
-  focused on clean architecture, <br /> responsiveness, and user-centric design.
-  <br />
-  <br />
-  I enjoy transforming complex ideas into scalable, high-performance web
-  applications with modern UI/UX practices.
+  focused on clean architecture, responsiveness,<br /> and user-centric design.
   <br />
   <br />
   Alongside development, I have a strong foundation in
