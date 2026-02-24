@@ -18,8 +18,8 @@ const About = () => {
   <br />
   <br />
   I am a passionate and results-driven developer with strong expertise in
-  <b> MERN stack development</b>, having built multiple real-world projects
-  focused on clean architecture, responsiveness, and user-centric design.
+  <b> MERN stack development</b>, <br /> having built multiple real-world projects
+  focused on clean architecture, <br /> responsiveness, and user-centric design.
   <br />
   <br />
   I enjoy transforming complex ideas into scalable, high-performance web
@@ -27,14 +27,14 @@ const About = () => {
   <br />
   <br />
   Alongside development, I have a strong foundation in
-  <b> Data Structures and Algorithms</b>. I have solved
+  <b> Data Structures and Algorithms</b>. <br /> I have solved
   <b> 500+ DSA problems</b> across multiple platforms and hold a
-  <b> 2★ rating on CodeChef</b>, demonstrating consistent problem-solving
+  <b> 2★ rating on CodeChef</b>, <br />  demonstrating consistent problem-solving
   ability and logical thinking.
   <br />
   <br />
   I am actively preparing for internships and full-time opportunities by
-  strengthening my core computer science fundamentals and building impactful
+  strengthening my core <br />  computer science fundamentals and building impactful
   projects.
 </p>
 
