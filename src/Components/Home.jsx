@@ -30,22 +30,19 @@ const Home = () => {
           <h1 className="AboutTextHeading">
             Brief <b>introduction</b>
           </h1>
-<p>
-            I love the process of turning a raw idea into a website or product
-            that impacts lives. 
+          <p>
+            3rd-year Information Technology Student | Aspiring Software Developer
             <br />
-            I want to do work that challenges me as a
-            developer and work I can be proud of.
+            I am a Full Stack Developer with a deep passion for turning raw ideas into functional, high-impact digital products. 
             <br />
-            <br />
-            I am currently working on a few projects in the <b>MERN</b> stack.
-            <br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b>, and{" "}
-            <b>TypeScript</b> in the near future.
+            My core expertise lies in the MERN Stack, where I focus on building scalable web applications that solve real-world problems.
             <br />
             <br />
-            Also, I love <b>coffee</b>{" "}
-            <CiCoffeeCup style={{ transform: "scale(1.5) rotate(15deg)" }} />
+            I love the process of building products from scratch and am constantly looking for challenges that push my technical boundaries.
+             <br />
+            Currently seeking Summer Internships and Software Development roles to apply my skills in a professional environment.
+            <br />
+            <br />
           </p>
         </div>
 
