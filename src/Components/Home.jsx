@@ -40,9 +40,6 @@ const Home = () => {
             <br />
             <br />
             I love the process of building products from scratch and am constantly looking for challenges <br /> that push my technical boundaries.
-             <br />
-            Currently seeking Summer Internships and Software Development roles to apply my skills <br /> in a professional environment.
-            <br />
             <br />
           </p>
         </div>
