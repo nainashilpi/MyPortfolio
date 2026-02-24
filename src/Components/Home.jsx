@@ -33,14 +33,15 @@ const Home = () => {
           <p>
             3rd-year Information Technology Student | Aspiring Software Developer
             <br />
-            I am a Full Stack Developer with a deep passion for turning raw ideas into functional, high-impact digital products. 
+            I am a Full Stack Developer with a deep passion for turning raw ideas into functional, <br/>
+            high-impact digital products. 
             <br />
-            My core expertise lies in the MERN Stack, where I focus on building scalable web applications that solve real-world problems.
+            My core expertise lies in the MERN Stack, where I focus on building scalable web applications <br /> that solve real-world problems.
             <br />
             <br />
-            I love the process of building products from scratch and am constantly looking for challenges that push my technical boundaries.
+            I love the process of building products from scratch and am constantly looking for challenges <br /> that push my technical boundaries.
              <br />
-            Currently seeking Summer Internships and Software Development roles to apply my skills in a professional environment.
+            Currently seeking Summer Internships and Software Development roles to apply my skills <br /> in a professional environment.
             <br />
             <br />
           </p>
