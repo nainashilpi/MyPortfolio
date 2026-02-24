@@ -13,44 +13,43 @@ const About = () => {
           </h1>
 
           <p className="AboutPara">
-            Hi, my name is <b>Nainu</b> and I am currently pursuing a{" "}
-            <b>B.Tech in Information Technology</b>. 
-            <br />
-            I am a passionate college
-            student with a strong interest in <b>web development</b> and
-            software engineering.
-            <br />
-            <br />
-            I enjoy transforming ideas into clean, responsive, and
-            user-friendly web interfaces.
-            <br />
-             I am currently working with{" "}
-            <b>React</b> and gradually exploring the <b>MERN</b> stack
-            <br />
-             to
-            strengthen both my frontend and backend development skills.
-            <br />
-            <br />
-            Alongside development,
-              <br />
-             I am consistently improving my
-            problem-solving skills and building a strong foundation
-            <br />
-             in core
-            computer science concepts to prepare myself for internships and
-            future placements.
-          </p>
+  Hi, I’m <b>Naina</b>, a B.Tech student in <b>Information Technology</b> at
+  <b> UIT RGPV, Bhopal</b>.
+  <br />
+  <br />
+  I am a passionate and results-driven developer with strong expertise in
+  <b> MERN stack development</b>, having built multiple real-world projects
+  focused on clean architecture, responsiveness, and user-centric design.
+  <br />
+  <br />
+  I enjoy transforming complex ideas into scalable, high-performance web
+  applications with modern UI/UX practices.
+  <br />
+  <br />
+  Alongside development, I have a strong foundation in
+  <b> Data Structures and Algorithms</b>. I have solved
+  <b> 500+ DSA problems</b> across multiple platforms and hold a
+  <b> 2★ rating on CodeChef</b>, demonstrating consistent problem-solving
+  ability and logical thinking.
+  <br />
+  <br />
+  I am actively preparing for internships and full-time opportunities by
+  strengthening my core computer science fundamentals and building impactful
+  projects.
+</p>
 
-          {/* EDUCATION SECTION */}
-          <div className="EducationBox">
-            <h2>Education</h2>
+{/* EDUCATION SECTION */}
+<div className="EducationBox">
+  <h2>Education</h2>
 
-            <div className="EducationItem">
-              <h3>Bachelor of Technology (B.Tech)</h3>
-              <p>Information Technology</p>
-              <span>Undergraduate Student</span>
-            </div>
-          </div>
+  <div className="EducationItem">
+    <h3>Bachelor of Technology (B.Tech)</h3>
+    <p>Information Technology</p>
+    <span>
+      University Institute of Technology, RGPV, Bhopal
+    </span>
+  </div>
+</div>
         </div>
 
         <div className="AboutIllustration">
