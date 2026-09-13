@@ -1,0 +1,54 @@
+/* =========================
+   PROJECT DETAILS CONTAINER
+========================= */
+.project-details {
+  position: relative;
+  min-height: 100vh;
+  background-color: #050508;
+  color: #ffffff;
+}
+
+.project-details-container {
+  width: min(calc(100% - 40px), 1200px);
+  margin-inline: auto;
+}
+
+/* Back Link Hover Effect */
+.back-projects:hover span {
+  color: #ffffff;
+}
+
+/* =========================
+   ACTION BUTTONS & HERO
+========================= */
+.detail-btn-primary {
+  box-shadow: 0 0 25px rgba(168, 85, 247, 0.3);
+}
+
+.detail-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 35px rgba(168, 85, 247, 0.5);
+}
+
+.detail-btn-secondary:hover {
+  transform: translateY(-2px);
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* =========================
+   CAROUSEL & GALLERY
+========================= */
+.slider-wrapper {
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.slider-thumbnails button {
+  outline: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .project-details-container {
+    width: calc(100% - 28px);
+  }
+}
